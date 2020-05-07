@@ -1,0 +1,9 @@
++ 4@0.0.0
++ ckeditor@4.12.1
+added 2 packages from 1 contributor and audited 17899 packages in 48.084s
+
+36 packages are looking for funding
+  run `npm fund` for details
+
+found 2 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
